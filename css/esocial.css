@@ -1,0 +1,55 @@
+#tabEnviadosNaoEnviados .linha-assunto {
+  border: 1px solid #C2C2C2;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+}
+#tabEnviadosNaoEnviados .titulo-assunto {
+  color: #333;
+  border-bottom: 1px solid #C2C2C2;
+  background-color: rgba(105,187,105,0.6);
+  height: 30px;
+  font-weight: bold;
+  padding-top: 4px;
+  margin-bottom: 10px;
+}
+/* ajuste no padding das mensagens (index.html) */
+
+.notification-body>li a.msg {
+  padding-left: inherit !important;
+}
+/*fim: ajuste no padding das mensagens (index.html) */
+/* ajuste nos painéis do dashboard (_teste-felipe.html) */
+
+.tamanho-maximo {
+  max-height: 400px;
+  overflow: auto;
+}
+#jarviswidget-fullscreen-mode .tamanho-maximo {
+  max-height: inherit;
+}
+.lista-sem-bullet>li {
+  display: block;
+}
+#arquivosEnviadosLegend {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+.bar-legend {
+  height: 20px;
+}
+.bar-legend>li {
+  display: block;
+  float: left;
+  margin-left: 10px;
+}
+.bar-legend>li>span {
+  margin-top: 2px;
+  display: inline-block;
+  width: 19px;
+  border-radius: 4px;
+  margin-right: 7px;
+}
+/* fim: ajuste nos painéis do dashboard (_teste-felipe.html) */
