@@ -1,0 +1,27 @@
+### JetBrains template
+# JetBrains IDEs: IntelliJ
+*.iml
+.idea/
+
+## Plugin-specific files:
+# IntelliJ
+/out/
+
+### Eclipse template
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+

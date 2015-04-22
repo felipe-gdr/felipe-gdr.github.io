@@ -7,8 +7,8 @@
         <h1 class="page-title txt-color-blueDark">
 
             <!-- PAGE HEADER -->
-            <i class="fa-fw fa fa-home"></i> Dashboard
-            <span>> Resumo de informações do eSocial
+            <i class="fa-fw fa fa-files-o"></i> Cadastros
+            <span>> Resumo de cadastros
             </span>
         </h1>
     </div>
@@ -17,7 +17,8 @@
     <!-- Competência -->
     <div class="col-xs-1 col-sm-1 col-md-1 col-lg-2" id="project-context">
         <span class="label">Competência:</span>
-        <span class="project-selector dropdown-toggle" data-toggle="dropdown">05/2015 <i class="fa fa-angle-down"></i></span>
+        <span class="project-selector dropdown-toggle" data-toggle="dropdown">05/2015 <i
+                class="fa fa-angle-down"></i></span>
 
         <!-- Suggestion: populate this list with fetch and push technique -->
         <ul class="dropdown-menu">
@@ -35,10 +36,10 @@
             </li>
             <li class="divider"></li>
             <!--
-			<li>
-				<a href="javascript:void(0);"><i class="fa fa-power-off"></i> Clear</a>
-			</li>
-			-->
+                  <li>
+                      <a href="javascript:void(0);"><i class="fa fa-power-off"></i> Clear</a>
+                  </li>
+                  -->
         </ul>
         <!-- end dropdown-menu-->
     </div>
@@ -53,14 +54,17 @@
                 <h5 title="85 arquivos enviados nessa competência"> Enviados
                     <span class="txt-color-blue">85</span>
                 </h5>
+
                 <div class="sparkline txt-color-blue hidden-mobile hidden-md hidden-sm">
                     5, 1, 5, 6, 4, 2, 4, 3, 3
                 </div>
             </li>
             <li class="sparks-info">
                 <h5 title="26 arquivos geraram erro nessa competência"> Erro
-                    <span class="txt-color-red"><i class="fa fa-arrow-circle-up" data-rel="bootstrap-tooltip" title="Increased"></i>&nbsp;26</span>
+                    <span class="txt-color-red"><i class="fa fa-arrow-circle-up" data-rel="bootstrap-tooltip"
+                                                   title="Increased"></i>&nbsp;26</span>
                 </h5>
+
                 <div class="sparkline txt-color-red hidden-mobile hidden-md hidden-sm">
                     1, 0, 0, 0, 2, 0, 4, 0, 1
                 </div>
@@ -69,6 +73,7 @@
                 <h5 title="69 arquivos enviados com sucesso nessa competência"> Sucesso
                     <span class="txt-color-green"><i class="fa fa-arrow-circle-down"></i>&nbsp;69</span>
                 </h5>
+
                 <div class="sparkline txt-color-green hidden-mobile hidden-md hidden-sm">
                     4, 1, 5, 6, 2, 2, 0, 3, 2
                 </div>
@@ -102,15 +107,18 @@
         <!-- Arquivos enviados: sucesso x erro -->
         <article class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-            <div class="jarviswidget" id="wid-arquivos-enviados" data-widget-deletebutton="false" data-widget-colorbutton="false" data-widget-fullscreenbutton="false" data-widget-editbutton="false" data-widget-sortable="false">
+            <div class="jarviswidget" id="wid-arquivos-enviados" data-widget-deletebutton="false"
+                 data-widget-colorbutton="false" data-widget-fullscreenbutton="false" data-widget-editbutton="false"
+                 data-widget-sortable="false">
                 <header>
                     <span class="widget-icon"> <i class="glyphicon glyphicon-stats txt-color-darken"></i> </span>
-                    <h2>Estatísticas </h2>
+
+                    <h2>Cadastros </h2>
 
                     <ul class="nav nav-tabs pull-right in" id="tabsEstatisticas">
                         <li class="active">
                             <a data-toggle="tab" href="#tabErroAcerto">
-                                <span class="hidden-mobile hidden-tablet">Erros x acertos</span>
+                                <span class="hidden-mobile hidden-tablet">Ok x NOK</span>
                             </a>
                         </li>
                         <li>
@@ -142,9 +150,11 @@
                                         <canvas id="sucessoXerro" height="140"></canvas>
                                         <ul class="sparks-info lista-sem-bullet">
                                             <li>
-                                                <span>26</span> arquivos com erro</li>
+                                                <span>35</span> cadastros com erro
+                                            </li>
                                             <li>
-                                                <span>69</span> arquivos enviados com sucesso</li>
+                                                <span>77</span> cadastros com sucesso
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -157,70 +167,78 @@
                                     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 show-stats">
                                         <div class="row linha-assunto">
                                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
-                                                <span> Cadastros
-                                                    <span class="pull-right">201/253</span>
+                                                <span> S1005 - Estabelecimentos
+                                                    <span class="pull-right">20/23</span>
                                                 </span>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1005 - Estabelecimentos
+                                                <span class="text"> S1005 - Movimentação 1
                                                     <span class="pull-right">20/23</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-blue" style="width: 86%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1010 - Rubricas
+                                                <span class="text"> S1005 - Movimentação 2
                                                     <span class="pull-right">2/23</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-red" style="width: 8%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1020 - Lotações
+                                                <span class="text"> S1005 - Movimentação 3
                                                     <span class="pull-right">12/12</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1030 - Cargos
+                                                <span class="text"> S1005 - Movimentação 4
                                                     <span class="pull-right">82/132</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-blue" style="width: 62%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1040 - Funções
+                                                <span class="text"> S1005 - Movimentação 5
                                                     <span class="pull-right">9/10</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-blue" style="width: 90%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1050 - Turnos
+                                                <span class="text"> S1005 - Movimentação 6
                                                     <span class="pull-right">2/2</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1060 - Ambientes de trabalho
+                                                <span class="text"> S1005 - Movimentação 7
                                                     <span class="pull-right">0/0</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 0%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1070 - Processos admist.
+                                                <span class="text"> S1005 - Movimentação 8
                                                     <span class="pull-right">0/0</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 0%;"></div>
                                                 </div>
@@ -230,38 +248,42 @@
                                     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 show-stats">
                                         <div class="row linha-assunto">
                                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
-                                                <span> Pagamentos
-                                                    <span class="pull-right">2200/2268</span>
+                                                <span> S1010 - Rubricas
+                                                    <span class="pull-right">2/23</span>
                                                 </span>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1200 - Remuneração
+                                                <span class="text"> S1010 - Rubricas 1
                                                     <span class="pull-right">2100/2134</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-blue" style="width: 98%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1210 - Rendimentos
+                                                <span class="text"> S1010 - Rubricas 2
                                                     <span class="pull-right">122/122</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1220 - Beneficiários
+                                                <span class="text"> S1010 - Rubricas 3
                                                     <span class="pull-right">11/12</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-blue" style="width: 91%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S1280 - Infos complementares
+                                                <span class="text"> S1010 - Rubricas 4
                                                     <span class="pull-right">0/0</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-blue" style="width: 0%;"></div>
                                                 </div>
@@ -269,32 +291,35 @@
                                         </div>
                                         <div class="row linha-assunto">
                                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
-                                                <span> Admissões
-                                                    <span class="pull-right">55/78</span>
+                                                <span> S1020 - Lotações
+                                                    <span class="pull-right">12/12</span>
                                                 </span>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2190 - Admissão parcial
-                                                    <span class="pull-right">34/34</span>
+                                                <span class="text"> S1020 - Lotações 1
+                                                    <span class="pull-right">6/6</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2200 - Admissão completa
-                                                    <span class="pull-right">10/34</span>
+                                                <span class="text"> S1020 - Lotações 2
+                                                    <span class="pull-right">4/4</span>
                                                 </span>
+
                                                 <div class="progress">
-                                                    <div class="progress-bar bg-color-red" style="width: 29%;"></div>
+                                                    <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2205 - Alteração de dados
-                                                    <span class="pull-right">11/12</span>
+                                                <span class="text"> S1020 - Lotações 3
+                                                    <span class="pull-right">2/2</span>
                                                 </span>
+
                                                 <div class="progress">
-                                                    <div class="progress-bar bg-color-blue" style="width: 91%;"></div>
+                                                    <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -302,30 +327,33 @@
                                     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 show-stats">
                                         <div class="row linha-assunto">
                                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
-                                                <span> Desligamentos
-                                                    <span class="pull-right">43/43</span>
+                                                <span> S1030 - Cargos
+                                                    <span class="pull-right">81/132</span>
                                                 </span>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2250 - Aviso prévio
+                                                <span class="text"> S1030 - Cargos 1
                                                     <span class="pull-right">13/13</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2298 - Reintegração
+                                                <span class="text"> S1030 - Cargos 2
                                                     <span class="pull-right">0/0</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-red" style="width: 0%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2299 - Desligamento
+                                                <span class="text"> S1030 - Cargos 3
                                                     <span class="pull-right">30/30</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
@@ -333,30 +361,33 @@
                                         </div>
                                         <div class="row linha-assunto">
                                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
-                                                <span> Trabalhadores sem vínculo
-                                                    <span class="pull-right">43/43</span>
+                                                <span> S1040 - Funções
+                                                    <span class="pull-right">9/10</span>
                                                 </span>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2300 - Início
+                                                <span class="text"> S1040 - Funções1
                                                     <span class="pull-right">4/4</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2305 - Alteração contratual
+                                                <span class="text"> S1040 - Funções 2
                                                     <span class="pull-right">0/0</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-red" style="width: 0%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2399 - Término
+                                                <span class="text"> S1040 - Funções 3
                                                     <span class="pull-right">1/2</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-blue" style="width: 50%;"></div>
                                                 </div>
@@ -366,52 +397,114 @@
                                     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 show-stats">
                                         <div class="row linha-assunto">
                                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
-                                                <span> SSO
-                                                    <span class="pull-right">43/43</span>
+                                                <span> S1050 - Turnos
+                                                    <span class="pull-right">2/2</span>
                                                 </span>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2210 - Acidente de trabalho
+                                                <span class="text"> S1050 - Turnos 1
                                                     <span class="pull-right">2/2</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2220 - Monitoramento
+                                                <span class="text"> S1050 - Turnos 2
                                                     <span class="pull-right">0/0</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-red" style="width: 0%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2230 - Afastamento
+                                                <span class="text"> S1050 - Turnos 3
                                                     <span class="pull-right">13/13</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-green" style="width: 100%;"></div>
                                                 </div>
                                             </div>
                                             <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2230 - Fatores de risco
+                                                <span class="text"> S1050 - Turnos 4
                                                     <span class="pull-right">1/5</span>
                                                 </span>
+
                                                 <div class="progress">
                                                     <div class="progress-bar bg-color-red" style="width: 20%;"></div>
                                                 </div>
                                             </div>
-                                            <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
-                                                <span class="text"> S2241 - Insalubridade
-                                                    <span class="pull-right">4/5</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 show-stats">
+                                        <div class="row linha-assunto">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
+                                                <span> S1060 - Ambientes de trabalho
+                                                    <span class="pull-right">2/2</span>
                                                 </span>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
+                                                <span class="text"> S1060 - Ambientes de trabalho 1
+                                                    <span class="pull-right">2/2</span>
+                                                </span>
+
                                                 <div class="progress">
-                                                    <div class="progress-bar bg-color-blue" style="width: 80%;"></div>
+                                                    <div class="progress-bar bg-color-green" style="width: 100%;"></div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
+                                                <span class="text"> S1060 - Ambientes de trabalho 2
+                                                    <span class="pull-right">0/0</span>
+                                                </span>
+
+                                                <div class="progress">
+                                                    <div class="progress-bar bg-color-red" style="width: 0%;"></div>
+                                                </div>
+                                            </div>
+                                            S1070 - Processos admist.
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 show-stats">
+                                        <div class="row linha-assunto">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titulo-assunto">
+                                                <span> S1070 - Processos admist.
+                                                    <span class="pull-right">0/0</span>
+                                                </span>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
+                                                <span class="text"> S1070 - Processos admist. 1
+                                                    <span class="pull-right">0/0</span>
+                                                </span>
+
+                                                <div class="progress">
+                                                    <div class="progress-bar bg-color-green" style="width: 100%;"></div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
+                                                <span class="text"> S1070 - Processos admist. 2
+                                                    <span class="pull-right">0/0</span>
+                                                </span>
+
+                                                <div class="progress">
+                                                    <div class="progress-bar bg-color-red" style="width: 0%;"></div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-12 col-lg-12">
+                                                <span class="text"> S1070 - Processos admist. 3
+                                                    <span class="pull-right">0/0</span>
+                                                </span>
+
+                                                <div class="progress">
+                                                    <div class="progress-bar bg-color-red" style="width: 0%;"></div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
@@ -424,317 +517,6 @@
             </div>
         </article>
 
-        <article class="col-sm-12 col-md-12 col-lg-6">
-            <!-- new widget -->
-            <div class="jarviswidget jarviswidget-color-blue" id="listaDeErrosPendentes" data-widget-editbutton="false" data-widget-colorbutton="false">
-
-                <header>
-                    <span class="widget-icon"> <i class="fa fa-check txt-color-white"></i> </span>
-                    <h2> Erros Pendentes </h2>
-                </header>
-
-                <!-- widget div-->
-                <div>
-                    <!-- widget edit box -->
-                    <div class="jarviswidget-editbox">
-                        <div>
-                            <label>Title: AA</label>
-                            <input type="text" />
-                        </div>
-                    </div>
-                    <!-- end widget edit box -->
-
-                    <div class="widget-body no-padding smart-form tamanho-maximo">
-                        <!-- content goes here -->
-                        <h5 class="todo-group-title"><i class="fa fa-warning"></i> Erros (
-                            <small class="num-of-tasks">26</small>)</h5>
-                        <ul id="sortable1a" class="todo">
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 1</strong> - Contém dados duplicados </span>
-                                    <span class="date">1, março, 2015 22:00</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 2</strong> - Arquivo com data inválida </span>
-                                    <span class="date">1, fevereiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 3</strong> - Arquivo sem dados </span>
-                                    <span class="date">12, fevereiro, 2015 18:05</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 4</strong> - Arquivo com nome inválido </span>
-                                    <span class="date">17, janeiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 5</strong> - Arquivo com formato inválido </span>
-                                    <span class="date">24, março, 2015 12:00</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 6</strong> - Contém dados duplicados </span>
-                                    <span class="date">1, março, 2015 22:00</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 7</strong> - Arquivo com data inválida </span>
-                                    <span class="date">1, fevereiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 8</strong> - Arquivo sem dados </span>
-                                    <span class="date">12, fevereiro, 2015 18:05</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 9</strong> - Arquivo com nome inválido </span>
-                                    <span class="date">17, janeiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 10</strong> - Arquivo com formato inválido </span>
-                                    <span class="date">24, março, 2015 12:00</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 11</strong> - Contém dados duplicados </span>
-                                    <span class="date">1, março, 2015 22:00</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 12</strong> - Arquivo com data inválida </span>
-                                    <span class="date">1, fevereiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 13</strong> - Arquivo sem dados </span>
-                                    <span class="date">12, fevereiro, 2015 18:05</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 14</strong> - Arquivo com nome inválido </span>
-                                    <span class="date">17, janeiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 15</strong> - Arquivo com formato inválido </span>
-                                    <span class="date">24, março, 2015 12:00</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 16</strong> - Contém dados duplicados </span>
-                                    <span class="date">1, março, 2015 22:00</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 17</strong> - Arquivo com data inválida </span>
-                                    <span class="date">1, fevereiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 18</strong> - Arquivo sem dados </span>
-                                    <span class="date">12, fevereiro, 2015 18:05</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 19</strong> - Arquivo com nome inválido </span>
-                                    <span class="date">17, janeiro, 2015 10:15</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Arquivo 20</strong> - Arquivo com formato inválido </span>
-                                    <span class="date">24, março, 2015 12:00</span>
-                                </p>
-                            </li>
-                        </ul>
-
-                        <!-- end content -->
-                    </div>
-
-                </div>
-                <!-- end widget div -->
-            </div>
-            <!-- end widget -->
-
-        </article>
-        <!-- fim Arquivos enviados: sucesso x erro -->
-
-
-        <article class="col-sm-12 col-md-12 col-lg-6">
-            <!-- new widget -->
-            <div class="jarviswidget jarviswidget-color-blue" id="listaDeMensagens" data-widget-editbutton="false" data-widget-colorbutton="false">
-
-                <header>
-                    <span class="widget-icon"> <i class="fa fa-check txt-color-white"></i> </span>
-                    <h2> Mensagens </h2>
-                </header>
-
-                <!-- widget div-->
-                <div>
-                    <!-- widget edit box -->
-                    <div class="jarviswidget-editbox">
-                        <div>
-                            <label>Title:</label>
-                            <input type="text" />
-                        </div>
-                    </div>
-                    <!-- end widget edit box -->
-
-                    <div class="widget-body no-padding smart-form tamanho-maximo">
-                        <!-- content goes here -->
-                        <h5 class="todo-group-title"><i class="fa fa-warning"></i> Erros (
-                            <small class="num-of-tasks">2</small>)</h5>
-                        <ul id="sortable1" class="todo">
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento S2200 com erro</strong> - Funcionário 'José da Silva' está com dados incompletos </span>
-                                    <span class="date">3, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento S2200 com erro</strong> - Funcionário 'Marina Silva' está com dados incompletos </span>
-                                    <span class="date">3, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                        </ul>
-
-                        <h5 class="todo-group-title"><i class="fa fa-exclamation"></i> Alertas (
-                            <small class="num-of-tasks">2</small>)</h5>
-                        <ul id="sortable2" class="todo">
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 2020 pendente</strong> - Hora extra de 'Manuela Araujo' pendente</span>
-                                    <span class="date">31, abril, 2015</span>
-                                </p>
-                            </li>
-                            <li>
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 1020 pendente</strong> - Admissão parcial de 'Eder Camargo' pendente</span>
-                                    <span class="date">25, abril, 2015</span>
-                                </p>
-                            </li>
-                        </ul>
-
-                        <h5 class="todo-group-title"><i class="fa fa-check"></i> Info (
-                            <small class="num-of-tasks">11</small>)</h5>
-                        <ul id="sortable3" class="todo">
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 2100 enviado</strong> - Acidente de trabalho de 'Amadeu Rocha' enviado com sucesso. </span>
-                                    <span class="date">2, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 1200 enviado</strong> - Admissão parcial de 'Juliana Tadeu' enviada com sucesso. </span>
-                                    <span class="date">1, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 2100 enviado</strong> - Acidente de trabalho de 'Amadeu Rocha' enviado com sucesso. </span>
-                                    <span class="date">2, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 1200 enviado</strong> - Admissão parcial de 'Juliana Tadeu' enviada com sucesso. </span>
-                                    <span class="date">1, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 2100 enviado</strong> - Acidente de trabalho de 'Amadeu Rocha' enviado com sucesso. </span>
-                                    <span class="date">2, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 1200 enviado</strong> - Admissão parcial de 'Juliana Tadeu' enviada com sucesso. </span>
-                                    <span class="date">1, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 2100 enviado</strong> - Acidente de trabalho de 'Amadeu Rocha' enviado com sucesso. </span>
-                                    <span class="date">2, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                            <li class="handle">
-                                <span class="handle"> </span>
-                                <p>
-                                    <strong>Evento 1200 enviado</strong> - Admissão parcial de 'Juliana Tadeu' enviada com sucesso. </span>
-                                    <span class="date">1, março, 2015 23:59</span>
-                                </p>
-                            </li>
-                        </ul>
-
-                        <!-- end content -->
-                    </div>
-
-                </div>
-                <!-- end widget div -->
-            </div>
-            <!-- end widget -->
-
-        </article>
-        <!-- fim Arquivos enviados: sucesso x erro -->
-
     </div>
     <!-- end row -->
 
@@ -743,61 +525,61 @@
 
 <script type="text/javascript">
     /* DO NOT REMOVE : GLOBAL FUNCTIONS!
-   *
-   * pageSetUp(); WILL CALL THE FOLLOWING FUNCTIONS
-   *
-   * // activate tooltips
-   * $("[rel=tooltip]").tooltip();
-   *
-   * // activate popovers
-   * $("[rel=popover]").popover();
-   *
-   * // activate popovers with hover states
-   * $("[rel=popover-hover]").popover({ trigger: "hover" });
-   *
-   * // activate inline charts
-   * runAllCharts();
-   *
-   * // setup widgets
-   * setup_widgets_desktop();
-   *
-   * // run form elements
-   * runAllForms();
-   *
-   ********************************
-   *
-   * pageSetUp() is needed whenever you load a page.
-   * It initializes and checks for all basic elements of the page
-   * and makes rendering easier.
-   *
-   */
+     *
+     * pageSetUp(); WILL CALL THE FOLLOWING FUNCTIONS
+     *
+     * // activate tooltips
+     * $("[rel=tooltip]").tooltip();
+     *
+     * // activate popovers
+     * $("[rel=popover]").popover();
+     *
+     * // activate popovers with hover states
+     * $("[rel=popover-hover]").popover({ trigger: "hover" });
+     *
+     * // activate inline charts
+     * runAllCharts();
+     *
+     * // setup widgets
+     * setup_widgets_desktop();
+     *
+     * // run form elements
+     * runAllForms();
+     *
+     ********************************
+     *
+     * pageSetUp() is needed whenever you load a page.
+     * It initializes and checks for all basic elements of the page
+     * and makes rendering easier.
+     *
+     */
 
     pageSetUp();
 
     /*
-   * ALL PAGE RELATED SCRIPTS CAN GO BELOW HERE
-   * eg alert("my home function");
-   *
-   * var pagefunction = function() {
-   *   ...
-   * }
-   * loadScript("js/plugin/_PLUGIN_NAME_.js", pagefunction);
-   *
-   * TO LOAD A SCRIPT:
-   * var pagefunction = function (){
-   *  loadScript(".../plugin.js", run_after_loaded);
-   * }
-   *
-   * OR you can load chain scripts by doing
-   *
-   * loadScript(".../plugin.js", function(){
-   * 	 loadScript("../plugin.js", function(){
-   * 	   ...
-   *   })
-   * });
-   */
+     * ALL PAGE RELATED SCRIPTS CAN GO BELOW HERE
+     * eg alert("my home function");
+     *
+     * var pagefunction = function() {
+     *   ...
+     * }
+     * loadScript("js/plugin/_PLUGIN_NAME_.js", pagefunction);
+     *
+     * TO LOAD A SCRIPT:
+     * var pagefunction = function (){
+     *  loadScript(".../plugin.js", run_after_loaded);
+     * }
+     *
+     * OR you can load chain scripts by doing
+     *
+     * loadScript(".../plugin.js", function(){
+     * 	 loadScript("../plugin.js", function(){
+     * 	   ...
+     *   })
+     * });
+     */
 
-    var pagefunction = function() {
+    var pagefunction = function () {
         // BAR CHART
         var barOptions = {
             // Animação
@@ -825,28 +607,28 @@
         };
 
         var barData = {
-            labels: ["Cadastro", "Admissões", "Desligamentos", "SSO", "Pagamentos", "Sem vínculo"],
+            labels: ["Estabelecimentos", "Rubricas", "Lotações", "Cargos", "Funções", "Turnos", "Ambientes de trabalho", "Processos admist."],
             datasets: [{
                 label: "Total",
                 fillColor: "rgba(151,187,205,0.6)",
                 strokeColor: "rgba(151,187,205,0.8)",
                 highlightFill: "rgba(151,187,205,0.75)",
                 highlightStroke: "rgba(151,187,205,1)",
-                data: [11, 12, 17, 5, 10, 8]
+                data: [23, 23, 12, 42, 10, 2, 0, 0]
             }, {
-                label: "Arquivos com sucesso",
+                label: "Cadastros com sucesso",
                 fillColor: "rgba(105,187,105,0.6)",
                 strokeColor: "rgba(105,187,105,0.8)",
                 highlightFill: "rgba(105,187,105,0.75)",
                 highlightStroke: "rgba(105,187,105,1)",
-                data: [10, 12, 16, 5, 1, 4]
+                data: [20, 2, 12, 32, 9, 2, 0, 0]
             }, {
-                label: "Arquivos com erro",
+                label: "Cadastros com erro",
                 fillColor: "rgba(220,100,100,0.6)",
                 strokeColor: "rgba(220,100,100,0.8)",
                 highlightFill: "rgba(220,100,100,0.75)",
                 highlightStroke: "rgba(220,100,100,1)",
-                data: [1, 0, 10, 1, 9, 4]
+                data: [3, 21, 0, 10, 1, 0, 0, 0]
             }]
         };
 
@@ -879,12 +661,12 @@
             legendTemplate: "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<segments.length; i++){%><li><span style=\"background-color:<%=segments[i].fillColor%>\"></span><%if(segments[i].label){%><%=segments[i].label%><%}%></li><%}%></ul>"
         };
         var pieData = [{
-            value: 69,
+            value: 77,
             color: "rgba(105,187,105,0.75)",
             highlight: "rgba(105,187,105,0.9)",
             label: "Sucesso"
         }, {
-            value: 26,
+            value: 35,
             color: "rgba(220,100,100,0.75)",
             highlight: "rgba(220,100,100,1)",
             label: "Erro"
@@ -901,19 +683,19 @@
     // pagedestroy is called automatically before loading a new page
     // only usable in AJAX version!
 
-    var pagedestroy = function() {
+    var pagedestroy = function () {
 
         /*
-  	Example below:
+         Example below:
 
-  	$("#calednar").fullCalendar( 'destroy' );
-  	if (debugState){
-  		root.console.log("✔ Calendar destroyed");
-  	}
+         $("#calednar").fullCalendar( 'destroy' );
+         if (debugState){
+         root.console.log("✔ Calendar destroyed");
+         }
 
-  	For common instances, such as Jarviswidgets, Google maps, and Datatables, are automatically destroyed through the app.js loadURL mechanic
+         For common instances, such as Jarviswidgets, Google maps, and Datatables, are automatically destroyed through the app.js loadURL mechanic
 
-  	*/
+         */
     }
 
     // end destroy
