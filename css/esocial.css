@@ -32,7 +32,6 @@
   display: block;
 }
 #arquivosEnviadosLegend {
-  width: 50%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
@@ -52,4 +51,21 @@
   border-radius: 4px;
   margin-right: 7px;
 }
+
+@media (max-width: 600px) {
+  #divArquivosEnviados {
+    width: 100%;
+  }
+}
+
+@media (min-width: 600px) {
+  #divArquivosEnviados {
+    height: 350px;
+  }
+}
+
+#sucessoXerro {
+    margin-top: 15px;
+}
+
 /* fim: ajuste nos painéis do dashboard (_teste-felipe.html) */
