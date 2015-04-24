@@ -167,6 +167,7 @@
                                 </div>
 
                             </div>
+
                             <div class="tab-pane fade" id="tabEnviadosNaoEnviados">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 show-stats">
@@ -387,6 +388,7 @@
      * });
      */
 
+
     var pagefunction = function () {
         // BAR CHART
         var barOptions = {
@@ -410,6 +412,7 @@
             barDatasetSpacing: 1,
             //Boolean - Re-draw chart on page resize
             responsive: true,
+            maintainAspectRatio: false,
             //String - A legend template
             legendTemplate: "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<datasets.length; i++){%><li><span style=\"background-color:<%=datasets[i].fillColor%>\">&nbsp;</span><%if(datasets[i].label){%><%=datasets[i].label%><%}%></li><%}%></ul>"
         };
@@ -479,6 +482,7 @@
             highlight: "rgba(220,100,100,1)",
             label: "Erro"
         }];
+
         // render chart
         var ctx = document.getElementById("sucessoXerro").getContext("2d");
         myNewChart_6 = new Chart(ctx).Pie(pieData, pieOptions);

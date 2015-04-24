@@ -58,9 +58,9 @@
   }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
   #divArquivosEnviados {
-    height: 350px;
+    height: 260px;
   }
 }
 
