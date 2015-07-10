@@ -303,7 +303,7 @@ line, polyline, polygon {fill: none; stroke: black;}
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1")' onmouseout='makeHidden("_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>eSocial</text>
@@ -328,7 +328,7 @@ onmouseover='makeVisible("_1_1")' onmouseout='makeHidden("_1_1")'/>
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1")' onmouseout='makeHidden("_1_1_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>evtPgtos</text>
@@ -353,7 +353,7 @@ onmouseover='makeVisible("_1_1_1_1")' onmouseout='makeHidden("_1_1_1_1")'/>
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1")' onmouseout='makeHidden("_1_1_1_1_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>ideEvento</text>
@@ -379,7 +379,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1")' onmouseout='makeHidden("_1_1_1_1_1_1")
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1_1_1")' onmouseout='makeHidden("_1_1_1_1_1_1_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>indRetif</text>
@@ -391,7 +391,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1_1_1")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1_1_2")' onmouseout='makeHidden("_1_1_1_1_1_1_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>nrRecibo</text>
@@ -404,7 +404,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1_1_2")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1_1_3")' onmouseout='makeHidden("_1_1_1_1_1_1_1_3")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>indApuracao</text>
@@ -416,7 +416,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1_1_3")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1_1_4")' onmouseout='makeHidden("_1_1_1_1_1_1_1_4")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>perApur</text>
@@ -428,7 +428,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1_1_4")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1_1_5")' onmouseout='makeHidden("_1_1_1_1_1_1_1_5")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>tpAmb</text>
@@ -440,7 +440,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1_1_5")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1_1_6")' onmouseout='makeHidden("_1_1_1_1_1_1_1_6")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>procEmi</text>
@@ -452,7 +452,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1_1_6")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_1_1_7")' onmouseout='makeHidden("_1_1_1_1_1_1_1_7")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>verProc</text>
@@ -465,7 +465,7 @@ onmouseover='makeVisible("_1_1_1_1_1_1_1_7")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_2")' onmouseout='makeHidden("_1_1_1_1_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>ideEmpregador</text>
@@ -491,7 +491,7 @@ onmouseover='makeVisible("_1_1_1_1_1_2")' onmouseout='makeHidden("_1_1_1_1_1_2")
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_2_1_1")' onmouseout='makeHidden("_1_1_1_1_1_2_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>tpInsc</text>
@@ -503,7 +503,7 @@ onmouseover='makeVisible("_1_1_1_1_1_2_1_1")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_2_1_2")' onmouseout='makeHidden("_1_1_1_1_1_2_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>nrInsc</text>
@@ -516,7 +516,7 @@ onmouseover='makeVisible("_1_1_1_1_1_2_1_2")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>ideBenef</text>
@@ -542,7 +542,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3")
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_1")' onmouseout='makeHidden("_1_1_1_1_1_3_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>cpfBenef</text>
@@ -554,7 +554,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_1")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>infoPgto</text>
@@ -581,7 +581,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2")' onmouseout='makeHidden("_1_1_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_1")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>dtPgto</text>
@@ -593,7 +593,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_1")' onmouseout='makeHidden("_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>indResBr</text>
@@ -605,7 +605,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_2")' onmouseout='makeHidden("_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_3")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>tpPgto</text>
@@ -617,7 +617,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_3")' onmouseout='makeHidden("_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_4")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>detPgtoFl</text>
@@ -643,7 +643,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4")' onmouseout='makeHidden("_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4_1_1")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_4_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>perRef</text>
@@ -655,11 +655,11 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4_1_1")' onmouseout='makeHidden("_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_4_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
-<text class='strong' x='5' y='27'>vlrPgto</text>
-<text class='visible' x='5' y='41'>base: decimal</text>
+<text class='strong' x='5' y='27'>ideRecPgto</text>
+<text class='visible' x='5' y='41'>base: positiveInteger</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -667,11 +667,11 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4_1_2")' onmouseout='makeHidden("_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_4_1_3")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
-<text class='strong' x='5' y='27'>ideRecPgto</text>
-<text class='visible' x='5' y='41'>base: positiveInteger</text>
+<text class='strong' x='5' y='27'>vlrPgto</text>
+<text class='visible' x='5' y='41'>base: decimal</text>
 <line class='connection' id='p_1_1_1_1_1_3_1_2_1_4_1_3' x1='-35' y1='-119' x2='-35' y2='-40'/>
 <path class='connection' d='M-35,-40 Q-35,15 0,23'/>
 </g>
@@ -680,7 +680,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_4_1_3")' onmouseout='makeHidden("_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_5")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>detPgtoResc</text>
@@ -706,19 +706,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5")' onmouseout='makeHidden("_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5_1_1")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_5_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
-<text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
-<text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
-<text class='strong' x='5' y='27'>vlrPgto</text>
-<text class='visible' x='5' y='41'>base: decimal</text>
-<line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
-</g>
-
-<g id='_1_1_1_1_1_3_1_2_1_5_1_2' class='box' transform='translate(2603,1257)'>
-<rect class='shadow' x='3' y='3' width='345' height='46'/>
-<rect class='boxelement' x='0' y='0' width='345' height='46'
-onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_5_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>ideRecPgto</text>
@@ -726,15 +714,27 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5_1_2")' onmouseout='makeHidden("_1
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
-<g id='_1_1_1_1_1_3_1_2_1_5_1_3' class='box' transform='translate(2603,1328)'>
+<g id='_1_1_1_1_1_3_1_2_1_5_1_2' class='box' transform='translate(2603,1257)'>
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
-onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_5_1_3")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_5_1_2")'/>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>nrRecArq</text>
 <text class='visible' x='5' y='41'>base: string</text>
+<line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
+</g>
+
+<g id='_1_1_1_1_1_3_1_2_1_5_1_3' class='box' transform='translate(2603,1328)'>
+<rect class='shadow' x='3' y='3' width='345' height='46'/>
+<rect class='boxelement' x='0' y='0' width='345' height='46'
+onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_5_1_3")'/>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
+<text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
+<text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
+<text class='strong' x='5' y='27'>vlrPgto</text>
+<text class='visible' x='5' y='41'>base: decimal</text>
 <line class='connection' id='p_1_1_1_1_1_3_1_2_1_5_1_3' x1='-35' y1='-119' x2='-35' y2='-40'/>
 <path class='connection' d='M-35,-40 Q-35,15 0,23'/>
 </g>
@@ -743,7 +743,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_5_1_3")' onmouseout='makeHidden("_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>idePgtoExt</text>
@@ -771,7 +771,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6")' onmouseout='makeHidden("_1_1_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>idePais</text>
@@ -796,7 +796,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1")' onmouseout='makeHidden("_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1_1_1")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_1_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>codPais</text>
@@ -808,7 +808,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1_1_1")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_1_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>indNIF</text>
@@ -820,7 +820,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1_1_2")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_1_1_3")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>nifBenef</text>
@@ -834,7 +834,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_1_1_3")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>endExt</text>
@@ -860,7 +860,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2")' onmouseout='makeHidden("_1
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_1")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_2_1_1")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>dscLograd</text>
@@ -872,7 +872,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_1")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_2")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_2_1_2")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>nrLograd</text>
@@ -885,7 +885,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_2")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_3")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_2_1_3")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>complem</text>
@@ -898,7 +898,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_3")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_4")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_2_1_4")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>bairro</text>
@@ -911,7 +911,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_4")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_5")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_2_1_5")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>nmCid</text>
@@ -923,7 +923,7 @@ onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_5")' onmouseout='makeHidden
 <rect class='shadow' x='3' y='3' width='345' height='46'/>
 <rect class='boxelement' x='0' y='0' width='345' height='46'
 onmouseover='makeVisible("_1_1_1_1_1_3_1_2_1_6_1_2_1_6")' onmouseout='makeHidden("_1_1_1_1_1_3_1_2_1_6_1_2_1_6")'/>
-<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_00_00</text>
+<text class='visible' x='5' y='13'>http://www.esocial.gov.br/schema/evt/evtPgtos/v02_01_00</text>
 <text class='hidden' visibility='hidden' x='5' y='13'>nillable: 0</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>codPostal</text>
@@ -940,17 +940,7 @@ onmouseover='makeVisible("_1_1_1_1_2")' onmouseout='makeHidden("_1_1_1_1_2")'/>
 <text class='strong' x='5' y='27'><tspan class='big'>@</tspan> Id</text>
 <text class='visible' x='5' y='41'>type: ID</text>
 <text class='hidden' visibility='hidden' x='5' y='41'>use: required</text>
-<line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
-</g>
-
-<g id='_1_1_1_1_3' class='box' transform='translate(1013,2109)'>
-<rect class='shadow' x='3' y='3' width='93' height='46' rx='9'/>
-<rect class='boxattribute1' x='0' y='0' width='93' height='46' rx='9'
-onmouseover='makeVisible("_1_1_1_1_3")' onmouseout='makeHidden("_1_1_1_1_3")'/>
-<text class='strong' x='5' y='27'><tspan class='big'>@</tspan> versao</text>
-<text class='visible' x='5' y='41'>type: string</text>
-<text class='hidden' visibility='hidden' x='5' y='41'>use: required</text>
-<line class='connection' id='p_1_1_1_1_3' x1='-35' y1='-2036' x2='-35' y2='-40'/>
+<line class='connection' id='p_1_1_1_1_2' x1='-35' y1='-1965' x2='-35' y2='-40'/>
 <path class='connection' d='M-35,-40 Q-35,15 0,23'/>
 </g>
 
